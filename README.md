@@ -67,7 +67,7 @@ Prediction & Submission
 
 ## Missing Value Analysis
 
-(Add missing value graph image here)
+
 
 Performed missing value analysis to identify incomplete columns and understand dataset quality.
 
@@ -148,6 +148,7 @@ The following preprocessing steps were performed:
 ---
 
 # Machine Learning Model
+<img width="572" height="370" alt="image" src="https://github.com/user-attachments/assets/742cf667-dd9d-42b1-b98e-88c697502ee5" />
 
 ## Model Used
 - XGBoost Regressor
@@ -166,7 +167,7 @@ The following preprocessing steps were performed:
 - RMSE
 - MAE
 
-(Add model evaluation screenshot here)
+
 
 ---
 
