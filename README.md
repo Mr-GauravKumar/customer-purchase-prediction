@@ -128,7 +128,8 @@ Compared purchase value distribution across device categories.
 
 ## Correlation Heatmap
 
-<img width="686" height="597" alt="image" src="https://github.com/user-attachments/assets/ab6c1f72-5794-4c2d-85bf-dc48f8e506f6" />
+<img width="730" height="686" alt="image" src="https://github.com/user-attachments/assets/de67b461-eec7-45db-a31a-194fb5795614" />
+
 
 
 Analyzed relationships between numerical features.
