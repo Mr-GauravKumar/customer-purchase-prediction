@@ -75,7 +75,6 @@ Performed missing value analysis to identify incomplete columns and understand d
 
 ## Target Distribution Analysis
 
-(Add target distribution graph here)
 
 Analyzed the distribution of purchase values to detect skewness and outliers.
 
@@ -83,7 +82,7 @@ Analyzed the distribution of purchase values to detect skewness and outliers.
 
 ## Log Transformation
 
-(Add log transformation graph here)
+
 
 Applied log transformation to reduce skewness and stabilize the target distribution.
 
@@ -91,7 +90,7 @@ Applied log transformation to reduce skewness and stabilize the target distribut
 
 ## Browser Distribution
 
-(Add browser distribution graph here)
+
 
 Analyzed the most commonly used browsers across customer sessions.
 
@@ -107,7 +106,7 @@ Studied customer device usage patterns.
 
 ## Traffic Source Analysis
 
-(Add traffic source graph here)
+
 
 Explored customer acquisition channels and traffic behavior.
 
