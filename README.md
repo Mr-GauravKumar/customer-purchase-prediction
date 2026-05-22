@@ -98,8 +98,6 @@ Analyzed the most commonly used browsers across customer sessions.
 
 ## Device Type Analysis
 
-(Add device type pie chart here)
-
 Studied customer device usage patterns.
 
 ---
