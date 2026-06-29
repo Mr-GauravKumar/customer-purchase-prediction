@@ -210,4 +210,4 @@ MLP Project
 ---
 
 # Author
-Gaurav
+Gaurav Kumar
